@@ -1,0 +1,45 @@
+body {
+    background-color: #faf0e6;
+}
+
+h1 {
+font-family: Trebuchet, sans-serif;
+font-style: italic;
+    text-decoration: underline;
+    color: #800020;
+    text-align: center;
+    }
+    
+    h2 {
+        font-family: Arial, sans-serif;
+font-style: italic;
+    text-decoration: underline;
+    color: #800020;
+    text-align: left;
+    }
+    
+    h3 {
+        font-family: Trebuchet, sans-serif;
+font-style: italic;
+    text-decoration: underline;
+    color: #800020;
+    text-align: left;
+        margin-left: 100px;
+    }
+       
+        
+   
+
+p {
+font-family: Trebuchet, sans-serif;
+font-style: italic;
+    color: #483c32;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+    li {
+        margin-left: 15px;
+    font-family: Trebuchet, sans-serif;
+font-style: italic;
+    color: #483c32;
+    }
