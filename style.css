@@ -1,5 +1,7 @@
 body {
     background-color: #faf0e6;
+    font-size: 100%;
+}
 }
 
 .tab { text-indent: 40px; }
@@ -53,3 +55,11 @@ font-style: italic;
 font-style: italic;
     color: #483c32;
     }
+blockquote {
+    text-indent: 40px;
+    font-family: Verdana, sans-serif;
+    font-style: bold;
+    color: #000000;
+    font-size: 1.875em;
+}
+    
