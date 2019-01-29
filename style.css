@@ -55,7 +55,7 @@ font-style: italic;
 font-style: italic;
     color: #483c32;
     }
-blockquote {
+div.blockquote {
     text-indent: 40px;
     font-family: Verdana, sans-serif;
     font-style: bold;
