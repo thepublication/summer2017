@@ -12,7 +12,7 @@ div.navigate {
 }
 
 h1 {
-font-family: Trebuchet, sans-serif;
+font-family: Verdana, sans-serif;
 font-style: italic;
     text-decoration: underline;
     color: #800020;
@@ -28,7 +28,7 @@ font-style: italic;
     }
     
     h3 {
-        font-family: Trebuchet, sans-serif;
+        font-family: Verdana, sans-serif;
 font-style: italic;
     text-decoration: underline;
     color: #800020;
@@ -40,7 +40,7 @@ font-style: italic;
    
 
 p {
-font-family: Trebuchet, sans-serif;
+font-family: Verdana, sans-serif;
 font-style: italic;
     color: #483c32;
     margin-left: 100px;
@@ -48,7 +48,7 @@ font-style: italic;
 }
     li {
         margin-left: 15px;
-    font-family: Trebuchet, sans-serif;
+    font-family: Verdana, sans-serif;
 font-style: italic;
     color: #483c32;
     }
