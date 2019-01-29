@@ -2,7 +2,7 @@ body {
     background-color: #faf0e6;
 }
 
-.tab { margin-left: 40px; }
+.tab { text-indent: 40px; }
 div.navigate {
     top: 0;
     left: 0;
